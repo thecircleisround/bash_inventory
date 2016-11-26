@@ -1,0 +1,45 @@
+0700-hotel_1
+
+428b
+Location: hotel_1
+Description: Ultimate Telelock Speaker Stand
+Serial Number: N/A
+16962
+Location: hotel_1
+Description: Direct Box
+Serial Number: N/A
+16963
+Location: hotel_1
+Description: Direct Box
+Serial Number: N/A
+16964
+Location: hotel_1
+Description: Direct Box
+Serial Number: N/A
+16965
+Location: hotel_1
+Description: Direct Box
+Serial Number: N/A
+16966
+Location: hotel_1
+Description: Direct Box
+Serial Number: N/A
+16967
+Location: hotel_1
+Description: Direct Box
+Serial Number: N/A
+
+1399
+Location: hotel_1
+Description: Powered Mixer
+Serial Number: N/A
+
+1514
+Location: hotel_1
+Description: PASSIVE 15 IN  SPEAKER
+Serial Number: N/A
+
+1517
+Location: hotel_1
+Description: PASSIVE 15 IN  SPEAKER
+Serial Number: N/A
